@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+#
+# Copyright (c) Dave Beusing <david.beusing@gmail.com>
+#
+#
 
 import requests
 
